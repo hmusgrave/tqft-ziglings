@@ -1,3 +1,7 @@
+# WTF is this?
+
+[Ziglings](https://github.com/ratfactor/ziglings) is supposed to be a great project for learning Zig. I've been using Zig for awhile, and I'm a bit curious what I might've missed. [The source repo](https://github.com/ratfactor/ziglings) is designed to be mutated in-place, and this repo is just a clone of [the original](https://github.com/ratfactor/ziglings) with any changes I've made thus far.
+
 # Ziglings
 
 Welcome to Ziglings! This project contains a series of tiny
